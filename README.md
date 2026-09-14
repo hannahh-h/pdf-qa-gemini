@@ -4,7 +4,7 @@ A Retrieval-Augmented Generation (RAG) application that allows users to ask ques
 
 ## Live Demo
 
-[Open the deployed Streamlit app](PASTE-YOUR-STREAMLIT-URL-HERE)
+[Open the deployed Streamlit app](https://pdf-app-gemini-hhgucq2kuhwpjuu77appppgs.streamlit.app/)
 
 ## Overview
 
